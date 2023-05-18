@@ -7,7 +7,6 @@ Use Cases:
 This script can be used to identify which partitions are failing using a HRY string and the corresponding .json file. 
 
 Using the HRY output from a test instance given in the following format: 
-![image](https://github.com/cathalba/HRYString_Reader/assets/107694612/f56b2f85-6b5f-401c-99b4-0de8fb9883f3)
 
 ![image](https://github.com/cathalba/HRYString_Reader/assets/107694612/e1410e5a-0b28-477b-9dec-4bf7af0e77a2)
 
